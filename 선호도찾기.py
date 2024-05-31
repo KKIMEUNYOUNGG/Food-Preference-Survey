@@ -69,7 +69,7 @@ dinner_jungsik=list()
 dinner_illsik=list()
 dinner_yangsik=list()
 
-# 아침에서 한, 중, 일, 양 나누기
+# 저녁에서 한, 중, 일, 양 나누기
 for item in list_dinner:
     if item[1]=='한식':
         dinner_hansik.append(item)
