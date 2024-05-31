@@ -1,4 +1,4 @@
-# Food-Preference-Survey
+# Meal-Preference-Survey
 [Introduction to data science] using python
 
 1. 교육 기간 동안의 아침, 저녁 식사 데이터를 리스트로 저장
